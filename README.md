@@ -39,7 +39,7 @@ python3 -m pip install --user scorch
 Or directly from git
 
 ```bash
-python3 -m pip install --user git+https://github.com/LoicGrobol/scorch.git
+python3 -m pip install --user git+https://github.com/alisafaya/scorch.git
 ```
 
 ## Formats
